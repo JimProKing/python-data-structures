@@ -1,0 +1,3 @@
+pytest>=7.0
+# pytest-cov optional
+# pytest-xdist optional for parallel tests
