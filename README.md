@@ -2,6 +2,10 @@
 
 컴퓨터공학 학부생이 **자료구조의 핵심 개념** 을 제대로 이해하고 손으로 직접 구현해볼 수 있도록 만든 저장소입니다.
 
+| 분류 | 상태 | 스택 | 바로 보기 |
+| --- | --- | --- | --- |
+| 기초 · 자료구조 | 완료 | Python · pytest | — |
+
 > **핵심 원칙**
 > - **정론(正論) 우선**: 대학 강의 / 교과서에서 가르치는 표준적인 구현 방식을 따름니다.
 > - **교육용 코드**: Pythonic한 한 줄짜리 트릭보다 **명확하고 읽기 쉬운 코드** 를 우선합니다. (조금 비효율적이어도 OK)
@@ -135,3 +139,10 @@ pytest tests/ -v
 
 행운을 빕니다! 💪
 "구현해본 사람만이 진짜 이해한다."
+
+---
+
+**관련 저장소** · [data_structure](https://github.com/JimProKing/data_structure) · [Cording_Test](https://github.com/JimProKing/Cording_Test)
+
+<sub>[JimProKing](https://github.com/JimProKing) · 이영찬 — 전체 저장소는 프로필의 프로젝트 지도에서 분야별로 볼 수 있습니다.</sub>
+<!-- jpk-footer -->
